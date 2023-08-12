@@ -1,5 +1,5 @@
 # GAMBL
-A very basic terminal-based gambling game that is easily expandable.
+A very basic terminal-based gambling game using python that is easily expandable.
 
 This is no way, shape or form ment for real applicational use eg. gambling websites.
 
